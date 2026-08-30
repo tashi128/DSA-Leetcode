@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/tashi128/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0746-min-cost-climbing-stairs](https://github.com/tashi128/DSA-Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/tashi128/DSA-Leetcode/tree/master/0070-climbing-stairs) |
+| [0746-min-cost-climbing-stairs](https://github.com/tashi128/DSA-Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
